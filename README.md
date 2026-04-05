@@ -39,7 +39,7 @@ Technologies:
 
 ### Backend (AI Service)
 
-The backend handles **AI processing and curriculum generation**.
+The Next.js backend handles **AI processing and curriculum generation**.
 
 Responsibilities:
 
